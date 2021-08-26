@@ -1,3 +1,3 @@
-##AI_For_Healthcare
+### AI For Healthcare
 
-This part might or might not have my notes but I will try to upload as mucha s I can.
+This folder might or might not have my notes but I will try to upload as much as I can.
